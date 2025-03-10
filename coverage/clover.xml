@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1741580108881" clover="3.2.0">
+  <project timestamp="1741580108881" name="All files">
+    <metrics statements="56" coveredstatements="48" conditionals="18" coveredconditionals="14" methods="22" coveredmethods="19" elements="96" coveredelements="81" complexity="0" loc="56" ncloc="56" packages="2" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="55" coveredstatements="47" conditionals="18" coveredconditionals="14" methods="22" coveredmethods="19"/>
+      <file name="MusicApp.tsx" path="/Users/jhussain/music-library/src/MusicApp.tsx">
+        <metrics statements="51" coveredstatements="43" conditionals="16" coveredconditionals="12" methods="20" coveredmethods="17"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="35" count="18" type="stmt"/>
+        <line num="39" count="18" type="cond" truecount="3" falsecount="0"/>
+        <line num="40" count="17" type="stmt"/>
+        <line num="43" count="18" type="stmt"/>
+        <line num="44" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="48" count="18" type="stmt"/>
+        <line num="50" count="18" type="stmt"/>
+        <line num="51" count="18" type="stmt"/>
+        <line num="52" count="18" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="69" count="16" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="76" count="3" type="stmt"/>
+        <line num="77" count="3" type="stmt"/>
+        <line num="78" count="3" type="stmt"/>
+        <line num="80" count="48" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="92" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="101" count="2" type="stmt"/>
+        <line num="104" count="18" type="stmt"/>
+        <line num="105" count="6" type="stmt"/>
+        <line num="108" count="18" type="stmt"/>
+        <line num="121" count="3" type="stmt"/>
+        <line num="146" count="0" type="stmt"/>
+        <line num="147" count="0" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="173" count="183" type="stmt"/>
+        <line num="197" count="18" type="stmt"/>
+        <line num="198" count="18" type="stmt"/>
+        <line num="199" count="18" type="stmt"/>
+        <line num="202" count="1" type="stmt"/>
+        <line num="203" count="1" type="stmt"/>
+        <line num="209" count="1" type="stmt"/>
+        <line num="210" count="1" type="stmt"/>
+        <line num="213" count="18" type="stmt"/>
+        <line num="253" count="1" type="stmt"/>
+      </file>
+      <file name="MusicCard.tsx" path="/Users/jhussain/music-library/src/MusicCard.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="15" count="183" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="test.mocks">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="fileMock.ts" path="/Users/jhussain/music-library/test/mocks/fileMock.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

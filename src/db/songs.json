@@ -1,0 +1,94 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "album": "Thriller"
+    },
+    {
+      "id": 2,
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "album": "Back in Black"
+    },
+    {
+      "id": 3,
+      "title": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "album": "The Dark Side of the Moon"
+    },
+    {
+      "id": 4,
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "album": "Abbey Road"
+    },
+    {
+      "id": 5,
+      "title": "The Marshall Mathers LP",
+      "artist": "Eminem",
+      "album": "The Marshall Mathers LP"
+    },
+    {
+      "id": 6,
+      "title": "Born to Run",
+      "artist": "Bruce Springsteen",
+      "album": "Born to Run"
+    },
+    {
+      "id": 7,
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "album": "Rumours"
+    },
+    {
+      "id": 8,
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "album": "Hotel California"
+    },
+    {
+      "id": 9,
+      "title": "21",
+      "artist": "Adele",
+      "album": "21"
+    },
+    {
+      "id": 10,
+      "title": "Darkness on the Edge of Town",
+      "artist": "Bruce Springsteen",
+      "album": "Darkness on the Edge of Town"
+    },
+    {
+      "id": 11,
+      "title": "Nevermind",
+      "artist": "Nirvana",
+      "album": "Nevermind"
+    },
+    {
+      "id": 12,
+      "title": "Lemonade",
+      "artist": "Beyoncé",
+      "album": "Lemonade"
+    },
+    {
+      "id": 13,
+      "title": "The Wall",
+      "artist": "Pink Floyd",
+      "album": "The Wall"
+    },
+    {
+      "id": 14,
+      "title": "The Joshua Tree",
+      "artist": "U2",
+      "album": "The Joshua Tree"
+    },
+    {
+      "id": 15,
+      "title": "A Night at the Opera",
+      "artist": "Queen",
+      "album": "A Night at the Opera"
+    }
+  ]
+}
